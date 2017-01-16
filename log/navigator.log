@@ -1,0 +1,420 @@
+12/13 15:32:21 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 114286
+12/13 15:32:21 ERROR - DbManagerImpl.insertData(396) | sourcePort is null: 111458
+12/13 15:32:21 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 111457
+12/13 15:32:21 INFO - DbManagerImpl.setHubPort(132) | airDefulatCost: 0.1
+12/13 15:32:21 INFO - DbManagerImpl.setHubPort(133) | seaDefulatCost: 0.3
+12/13 15:32:21 INFO - DbManagerImpl.setHubPort(134) | roadDefulatCost: 1.0
+12/13 15:32:21 INFO - DbManagerImpl.setHubPort(135) | railDefulatCost: 0.0
+12/13 15:32:21 INFO - DbManagerImpl.setHubPort(137) | airHubBranchNum: 1000
+12/13 15:32:21 INFO - DbManagerImpl.setHubPort(138) | seaHubBranchNum: 1000
+12/13 15:32:21 INFO - DbManagerImpl.setHubPort(139) | roadHubBranchNum: 0
+12/13 15:32:21 INFO - DbManagerImpl.setHubPort(140) | railHubBranchNum: 0
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByCount(171) | ********************* [inited hubMap size: 0
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByCount(244) | ********************* [after hubMap size: 0
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(251) | ********************* [before hubMap size: 0
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 67370:Incheon Intl Apt/Seoul is hub: 235
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 105430:Dubai is hub: 147
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 108829:Hong Kong is hub: 11
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 107656:Shanghai Pudong International Apt is hub: 22
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105169:BUSAN is hub: 402
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105162:INCHEON is hub: 331
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104947:SHANGHAI is hub: 303
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105038:HONG KONG is hub: 236
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104944:QINGDAO is hub: 332
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104841:JEBEL ALI (DUBAI) is hub: 292
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105132:OSAKA is hub: 264
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105234:ROTTERDAM is hub: 107
+12/13 15:32:21 INFO - DbManagerImpl.resetHubPortByKey(263) | ********************* [after hubMap size: 12
+12/13 15:32:21 INFO - DbManagerImpl.recalculateCost(488) | reset transport costs. 36828
+12/13 15:32:22 INFO - DbManagerImpl.setHubPort(162) | ********************* portMap size: 1178
+12/13 15:32:22 INFO - DbManagerImpl.setHubPort(163) | ********************* transportMap size: 36828
+12/13 15:32:22 INFO - Server.doStart(290) | jetty-9.0.2.v20130417
+12/13 15:32:22 INFO - AbstractConnector.doStart(265) | Started ServerConnector@50e1975{HTTP/1.1}{0.0.0.0:4567}
+12/13 15:43:01 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 114286
+12/13 15:43:01 ERROR - DbManagerImpl.insertData(396) | sourcePort is null: 111458
+12/13 15:43:01 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 111457
+12/13 15:43:01 INFO - DbManagerImpl.setHubPort(132) | airDefulatCost: 0.1
+12/13 15:43:01 INFO - DbManagerImpl.setHubPort(133) | seaDefulatCost: 0.3
+12/13 15:43:01 INFO - DbManagerImpl.setHubPort(134) | roadDefulatCost: 1.0
+12/13 15:43:01 INFO - DbManagerImpl.setHubPort(135) | railDefulatCost: 0.0
+12/13 15:43:01 INFO - DbManagerImpl.setHubPort(137) | airHubBranchNum: 1000
+12/13 15:43:01 INFO - DbManagerImpl.setHubPort(138) | seaHubBranchNum: 1000
+12/13 15:43:01 INFO - DbManagerImpl.setHubPort(139) | roadHubBranchNum: 0
+12/13 15:43:01 INFO - DbManagerImpl.setHubPort(140) | railHubBranchNum: 0
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByCount(171) | ********************* [inited hubMap size: 0
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByCount(244) | ********************* [after hubMap size: 0
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(251) | ********************* [before hubMap size: 0
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 67370:Incheon Intl Apt/Seoul is hub: 235
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 105430:Dubai is hub: 147
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 108829:Hong Kong is hub: 11
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 107656:Shanghai Pudong International Apt is hub: 22
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105169:BUSAN is hub: 402
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105162:INCHEON is hub: 331
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104947:SHANGHAI is hub: 303
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105038:HONG KONG is hub: 236
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104944:QINGDAO is hub: 332
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104841:JEBEL ALI (DUBAI) is hub: 292
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105132:OSAKA is hub: 264
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105234:ROTTERDAM is hub: 107
+12/13 15:43:01 INFO - DbManagerImpl.resetHubPortByKey(263) | ********************* [after hubMap size: 12
+12/13 15:43:01 INFO - DbManagerImpl.recalculateCost(488) | reset transport costs. 36828
+12/13 15:43:01 INFO - DbManagerImpl.setHubPort(162) | ********************* portMap size: 1178
+12/13 15:43:01 INFO - DbManagerImpl.setHubPort(163) | ********************* transportMap size: 36828
+12/13 15:43:02 INFO - Server.doStart(290) | jetty-9.0.2.v20130417
+12/13 15:43:02 INFO - AbstractConnector.doStart(265) | Started ServerConnector@4f43e936{HTTP/1.1}{0.0.0.0:4567}
+12/13 15:45:50 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 114286
+12/13 15:45:50 ERROR - DbManagerImpl.insertData(396) | sourcePort is null: 111458
+12/13 15:45:50 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 111457
+12/13 15:45:51 INFO - DbManagerImpl.setHubPort(132) | airDefulatCost: 0.1
+12/13 15:45:51 INFO - DbManagerImpl.setHubPort(133) | seaDefulatCost: 0.3
+12/13 15:45:51 INFO - DbManagerImpl.setHubPort(134) | roadDefulatCost: 1.0
+12/13 15:45:51 INFO - DbManagerImpl.setHubPort(135) | railDefulatCost: 0.0
+12/13 15:45:51 INFO - DbManagerImpl.setHubPort(137) | airHubBranchNum: 1000
+12/13 15:45:51 INFO - DbManagerImpl.setHubPort(138) | seaHubBranchNum: 1000
+12/13 15:45:51 INFO - DbManagerImpl.setHubPort(139) | roadHubBranchNum: 0
+12/13 15:45:51 INFO - DbManagerImpl.setHubPort(140) | railHubBranchNum: 0
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByCount(171) | ********************* [inited hubMap size: 0
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByCount(244) | ********************* [after hubMap size: 0
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(251) | ********************* [before hubMap size: 0
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 67370:Incheon Intl Apt/Seoul is hub: 235
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 105430:Dubai is hub: 147
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 108829:Hong Kong is hub: 11
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 107656:Shanghai Pudong International Apt is hub: 22
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105169:BUSAN is hub: 402
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105162:INCHEON is hub: 331
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104947:SHANGHAI is hub: 303
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105038:HONG KONG is hub: 236
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104944:QINGDAO is hub: 332
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104841:JEBEL ALI (DUBAI) is hub: 292
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105132:OSAKA is hub: 264
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105234:ROTTERDAM is hub: 107
+12/13 15:45:51 INFO - DbManagerImpl.resetHubPortByKey(263) | ********************* [after hubMap size: 12
+12/13 15:45:51 INFO - DbManagerImpl.recalculateCost(488) | reset transport costs. 36828
+12/13 15:45:51 INFO - DbManagerImpl.setHubPort(162) | ********************* portMap size: 1178
+12/13 15:45:51 INFO - DbManagerImpl.setHubPort(163) | ********************* transportMap size: 36828
+12/13 15:45:51 INFO - Server.doStart(290) | jetty-9.0.2.v20130417
+12/13 15:45:51 INFO - AbstractConnector.doStart(265) | Started ServerConnector@4f43e936{HTTP/1.1}{0.0.0.0:4567}
+12/13 15:45:54 INFO - AirSchedule.getPort(127) | ********** result size: 490, 490
+12/13 15:49:34 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 114286
+12/13 15:49:34 ERROR - DbManagerImpl.insertData(396) | sourcePort is null: 111458
+12/13 15:49:34 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 111457
+12/13 15:49:35 INFO - DbManagerImpl.setHubPort(132) | airDefulatCost: 0.1
+12/13 15:49:35 INFO - DbManagerImpl.setHubPort(133) | seaDefulatCost: 0.3
+12/13 15:49:35 INFO - DbManagerImpl.setHubPort(134) | roadDefulatCost: 1.0
+12/13 15:49:35 INFO - DbManagerImpl.setHubPort(135) | railDefulatCost: 0.0
+12/13 15:49:35 INFO - DbManagerImpl.setHubPort(137) | airHubBranchNum: 1000
+12/13 15:49:35 INFO - DbManagerImpl.setHubPort(138) | seaHubBranchNum: 1000
+12/13 15:49:35 INFO - DbManagerImpl.setHubPort(139) | roadHubBranchNum: 0
+12/13 15:49:35 INFO - DbManagerImpl.setHubPort(140) | railHubBranchNum: 0
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByCount(171) | ********************* [inited hubMap size: 0
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByCount(244) | ********************* [after hubMap size: 0
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(251) | ********************* [before hubMap size: 0
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 67370:Incheon Intl Apt/Seoul is hub: 235
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 105430:Dubai is hub: 147
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 108829:Hong Kong is hub: 11
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 107656:Shanghai Pudong International Apt is hub: 22
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105169:BUSAN is hub: 402
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105162:INCHEON is hub: 331
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104947:SHANGHAI is hub: 303
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105038:HONG KONG is hub: 236
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104944:QINGDAO is hub: 332
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104841:JEBEL ALI (DUBAI) is hub: 292
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105132:OSAKA is hub: 264
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105234:ROTTERDAM is hub: 107
+12/13 15:49:35 INFO - DbManagerImpl.resetHubPortByKey(263) | ********************* [after hubMap size: 12
+12/13 15:49:35 INFO - DbManagerImpl.recalculateCost(488) | reset transport costs. 36828
+12/13 15:49:35 INFO - DbManagerImpl.setHubPort(162) | ********************* portMap size: 1178
+12/13 15:49:35 INFO - DbManagerImpl.setHubPort(163) | ********************* transportMap size: 36828
+12/13 15:49:35 INFO - Server.doStart(290) | jetty-9.0.2.v20130417
+12/13 15:49:35 INFO - AbstractConnector.doStart(265) | Started ServerConnector@50e1975{HTTP/1.1}{0.0.0.0:4567}
+12/13 15:50:35 INFO - AirSchedule.getSchedule(65) | select air_p2p_seq, airline_nm, flight_no, b.location_id src_location_id, b.airport_map_nm src_airport_nm, b.airport_cntry_cd src_cntry_cd, c.location_id dst_location_id, c.airport_map_nm dst_airport_nm, c.airport_cntry_cd dst_cntry_cd, a.schedule_dep_time dep_time, a.schedule_arr_time arr_time, a.tt duration from tx_air_p2p_schedule a, tx_airport_map b, tx_airport_map c, tx_airline d where schedule_dep_time >= ? and schedule_arr_time < ? and a.airline_seq = d.airline_seq and a.src_airport_map_seq = b.airport_map_seq and a.dst_airport_map_seq = c.airport_map_seq
+12/13 15:50:35 INFO - AirSchedule.getSchedule(66) | schedule_dep_time >= 2016-12-08 00:00:00 and schedule_arr_time < 2016-12-15 23:59:59
+12/13 15:50:36 INFO - AirSchedule.getSchedule(88) | ********** result size: 3627, 3627
+12/13 15:52:15 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 114286
+12/13 15:52:15 ERROR - DbManagerImpl.insertData(396) | sourcePort is null: 111458
+12/13 15:52:15 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 111457
+12/13 15:52:15 INFO - DbManagerImpl.setHubPort(132) | airDefulatCost: 0.1
+12/13 15:52:15 INFO - DbManagerImpl.setHubPort(133) | seaDefulatCost: 0.3
+12/13 15:52:15 INFO - DbManagerImpl.setHubPort(134) | roadDefulatCost: 1.0
+12/13 15:52:15 INFO - DbManagerImpl.setHubPort(135) | railDefulatCost: 0.0
+12/13 15:52:15 INFO - DbManagerImpl.setHubPort(137) | airHubBranchNum: 1000
+12/13 15:52:15 INFO - DbManagerImpl.setHubPort(138) | seaHubBranchNum: 1000
+12/13 15:52:15 INFO - DbManagerImpl.setHubPort(139) | roadHubBranchNum: 0
+12/13 15:52:15 INFO - DbManagerImpl.setHubPort(140) | railHubBranchNum: 0
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByCount(171) | ********************* [inited hubMap size: 0
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByCount(244) | ********************* [after hubMap size: 0
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(251) | ********************* [before hubMap size: 0
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 67370:Incheon Intl Apt/Seoul is hub: 235
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 105430:Dubai is hub: 147
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 108829:Hong Kong is hub: 11
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 107656:Shanghai Pudong International Apt is hub: 22
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105169:BUSAN is hub: 402
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105162:INCHEON is hub: 331
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104947:SHANGHAI is hub: 303
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105038:HONG KONG is hub: 236
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104944:QINGDAO is hub: 332
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104841:JEBEL ALI (DUBAI) is hub: 292
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105132:OSAKA is hub: 264
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105234:ROTTERDAM is hub: 107
+12/13 15:52:15 INFO - DbManagerImpl.resetHubPortByKey(263) | ********************* [after hubMap size: 12
+12/13 15:52:15 INFO - DbManagerImpl.recalculateCost(488) | reset transport costs. 36828
+12/13 15:52:15 INFO - DbManagerImpl.setHubPort(162) | ********************* portMap size: 1178
+12/13 15:52:15 INFO - DbManagerImpl.setHubPort(163) | ********************* transportMap size: 36828
+12/13 15:52:15 INFO - Server.doStart(290) | jetty-9.0.2.v20130417
+12/13 15:52:15 INFO - AbstractConnector.doStart(265) | Started ServerConnector@6b87253c{HTTP/1.1}{0.0.0.0:4567}
+12/13 15:52:51 INFO - AirSchedule.getSchedule(67) | select air_p2p_seq, airline_nm, flight_no, b.location_id src_location_id, b.airport_map_nm src_airport_nm, b.airport_cntry_cd src_cntry_cd, c.location_id dst_location_id, c.airport_map_nm dst_airport_nm, c.airport_cntry_cd dst_cntry_cd, a.schedule_dep_time dep_time, a.schedule_arr_time arr_time, a.tt duration from tx_air_p2p_schedule a, tx_airport_map b, tx_airport_map c, tx_airline d where schedule_dep_time >= ? and schedule_arr_time < ? and a.airline_seq = d.airline_seq and a.src_airport_map_seq = b.airport_map_seq and a.dst_airport_map_seq = c.airport_map_seq
+12/13 15:52:51 INFO - AirSchedule.getSchedule(68) | schedule_dep_time >= 2016-12-08 00:00:00 and schedule_arr_time < 2016-12-15 23:59:59
+12/13 15:52:51 INFO - AirSchedule.getSchedule(90) | ********** result size: 3627, 3627
+12/13 15:52:58 INFO - AirSchedule.getSchedule(67) | select air_p2p_seq, airline_nm, flight_no, b.location_id src_location_id, b.airport_map_nm src_airport_nm, b.airport_cntry_cd src_cntry_cd, c.location_id dst_location_id, c.airport_map_nm dst_airport_nm, c.airport_cntry_cd dst_cntry_cd, a.schedule_dep_time dep_time, a.schedule_arr_time arr_time, a.tt duration from tx_air_p2p_schedule a, tx_airport_map b, tx_airport_map c, tx_airline d where schedule_dep_time >= ? and schedule_arr_time < ? and a.airline_seq = d.airline_seq and a.src_airport_map_seq = b.airport_map_seq and a.dst_airport_map_seq = c.airport_map_seq
+12/13 15:52:58 INFO - AirSchedule.getSchedule(68) | schedule_dep_time >= 2016-12-15 00:00:00 and schedule_arr_time < 2016-12-15 23:59:59
+12/13 15:52:58 INFO - AirSchedule.getSchedule(90) | ********** result size: 339, 339
+12/13 15:54:05 INFO - AirSchedule.getSchedule(67) | select air_p2p_seq, airline_nm, flight_no, b.location_id src_location_id, b.airport_map_nm src_airport_nm, b.airport_cntry_cd src_cntry_cd, c.location_id dst_location_id, c.airport_map_nm dst_airport_nm, c.airport_cntry_cd dst_cntry_cd, a.schedule_dep_time dep_time, a.schedule_arr_time arr_time, a.tt duration from tx_air_p2p_schedule a, tx_airport_map b, tx_airport_map c, tx_airline d where schedule_dep_time >= ? and schedule_arr_time < ? and a.airline_seq = d.airline_seq and a.src_airport_map_seq = b.airport_map_seq and a.dst_airport_map_seq = c.airport_map_seqand a.src_airport_map_seq = ? and a.dst_airport_map_seq = ?
+12/13 15:54:05 INFO - AirSchedule.getSchedule(68) | schedule_dep_time >= 2016-12-15 00:00:00 and schedule_arr_time < 2016-12-15 23:59:59
+12/13 15:54:05 ERROR - AirSchedule.getSchedule(94) | 
+com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near 'a'.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:216)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1515)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:404)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:350)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:5696)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1715)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:180)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:155)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeQuery(SQLServerPreparedStatement.java:285)
+	at com.tradlinx.navigator.schedule.AirSchedule.getSchedule(AirSchedule.java:70)
+	at com.tradlinx.navigator.rest.NavigatorService.getSchedules(NavigatorService.java:610)
+	at com.tradlinx.navigator.rest.NavigatorController.lambda$10(NavigatorController.java:36)
+	at spark.ResponseTransformerRouteImpl$1.handle(ResponseTransformerRouteImpl.java:47)
+	at spark.webserver.MatcherFilter.doFilter(MatcherFilter.java:144)
+	at spark.webserver.JettyHandler.doHandle(JettyHandler.java:54)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:179)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:136)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97)
+	at org.eclipse.jetty.server.Server.handle(Server.java:451)
+	at org.eclipse.jetty.server.HttpChannel.run(HttpChannel.java:252)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:266)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.run(AbstractConnection.java:240)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:596)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:527)
+	at java.lang.Thread.run(Thread.java:745)
+12/13 15:56:37 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 114286
+12/13 15:56:37 ERROR - DbManagerImpl.insertData(396) | sourcePort is null: 111458
+12/13 15:56:37 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 111457
+12/13 15:56:38 INFO - DbManagerImpl.setHubPort(132) | airDefulatCost: 0.1
+12/13 15:56:38 INFO - DbManagerImpl.setHubPort(133) | seaDefulatCost: 0.3
+12/13 15:56:38 INFO - DbManagerImpl.setHubPort(134) | roadDefulatCost: 1.0
+12/13 15:56:38 INFO - DbManagerImpl.setHubPort(135) | railDefulatCost: 0.0
+12/13 15:56:38 INFO - DbManagerImpl.setHubPort(137) | airHubBranchNum: 1000
+12/13 15:56:38 INFO - DbManagerImpl.setHubPort(138) | seaHubBranchNum: 1000
+12/13 15:56:38 INFO - DbManagerImpl.setHubPort(139) | roadHubBranchNum: 0
+12/13 15:56:38 INFO - DbManagerImpl.setHubPort(140) | railHubBranchNum: 0
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByCount(171) | ********************* [inited hubMap size: 0
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByCount(244) | ********************* [after hubMap size: 0
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(251) | ********************* [before hubMap size: 0
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 67370:Incheon Intl Apt/Seoul is hub: 235
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 105430:Dubai is hub: 147
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 108829:Hong Kong is hub: 11
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 107656:Shanghai Pudong International Apt is hub: 22
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105169:BUSAN is hub: 402
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105162:INCHEON is hub: 331
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104947:SHANGHAI is hub: 303
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105038:HONG KONG is hub: 236
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104944:QINGDAO is hub: 332
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104841:JEBEL ALI (DUBAI) is hub: 292
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105132:OSAKA is hub: 264
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105234:ROTTERDAM is hub: 107
+12/13 15:56:38 INFO - DbManagerImpl.resetHubPortByKey(263) | ********************* [after hubMap size: 12
+12/13 15:56:38 INFO - DbManagerImpl.recalculateCost(488) | reset transport costs. 36828
+12/13 15:56:38 INFO - DbManagerImpl.setHubPort(162) | ********************* portMap size: 1178
+12/13 15:56:38 INFO - DbManagerImpl.setHubPort(163) | ********************* transportMap size: 36828
+12/13 15:56:38 INFO - Server.doStart(290) | jetty-9.0.2.v20130417
+12/13 15:56:38 INFO - AbstractConnector.doStart(265) | Started ServerConnector@7e5b2501{HTTP/1.1}{0.0.0.0:4567}
+12/13 15:56:41 INFO - AirSchedule.getSchedule(67) | select air_p2p_seq, airline_nm, flight_no, b.location_id src_location_id, b.airport_map_nm src_airport_nm, b.airport_cntry_cd src_cntry_cd, c.location_id dst_location_id, c.airport_map_nm dst_airport_nm, c.airport_cntry_cd dst_cntry_cd, a.schedule_dep_time dep_time, a.schedule_arr_time arr_time, a.tt duration from tx_air_p2p_schedule a, tx_airport_map b, tx_airport_map c, tx_airline d where schedule_dep_time >= ? and schedule_arr_time < ? and a.airline_seq = d.airline_seq and a.src_airport_map_seq = b.airport_map_seq and a.dst_airport_map_seq = c.airport_map_seq and a.src_airport_map_seq = ? and a.dst_airport_map_seq = ?
+12/13 15:56:41 INFO - AirSchedule.getSchedule(68) | schedule_dep_time >= 2016-12-15 00:00:00 and schedule_arr_time < 2016-12-15 23:59:59
+12/13 15:56:41 INFO - AirSchedule.getSchedule(90) | ********** result size: 1, 1
+12/14 09:37:31 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 114286
+12/14 09:37:31 ERROR - DbManagerImpl.insertData(396) | sourcePort is null: 111458
+12/14 09:37:31 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 111457
+12/14 09:37:31 INFO - DbManagerImpl.setHubPort(132) | airDefulatCost: 0.1
+12/14 09:37:31 INFO - DbManagerImpl.setHubPort(133) | seaDefulatCost: 0.3
+12/14 09:37:31 INFO - DbManagerImpl.setHubPort(134) | roadDefulatCost: 1.0
+12/14 09:37:31 INFO - DbManagerImpl.setHubPort(135) | railDefulatCost: 0.0
+12/14 09:37:31 INFO - DbManagerImpl.setHubPort(137) | airHubBranchNum: 1000
+12/14 09:37:31 INFO - DbManagerImpl.setHubPort(138) | seaHubBranchNum: 1000
+12/14 09:37:31 INFO - DbManagerImpl.setHubPort(139) | roadHubBranchNum: 0
+12/14 09:37:31 INFO - DbManagerImpl.setHubPort(140) | railHubBranchNum: 0
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByCount(171) | ********************* [inited hubMap size: 0
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByCount(244) | ********************* [after hubMap size: 0
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(251) | ********************* [before hubMap size: 0
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 67370:Incheon Intl Apt/Seoul is hub: 235
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 105430:Dubai is hub: 147
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 108829:Hong Kong is hub: 11
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 107656:Shanghai Pudong International Apt is hub: 22
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105169:BUSAN is hub: 402
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105162:INCHEON is hub: 331
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104947:SHANGHAI is hub: 303
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105038:HONG KONG is hub: 236
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104944:QINGDAO is hub: 332
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104841:JEBEL ALI (DUBAI) is hub: 292
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105132:OSAKA is hub: 264
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105234:ROTTERDAM is hub: 107
+12/14 09:37:31 INFO - DbManagerImpl.resetHubPortByKey(263) | ********************* [after hubMap size: 12
+12/14 09:37:31 INFO - DbManagerImpl.recalculateCost(488) | reset transport costs. 36828
+12/14 09:37:31 INFO - DbManagerImpl.setHubPort(162) | ********************* portMap size: 1178
+12/14 09:37:31 INFO - DbManagerImpl.setHubPort(163) | ********************* transportMap size: 36828
+12/14 09:37:32 INFO - Server.doStart(290) | jetty-9.0.2.v20130417
+12/14 09:37:32 INFO - AbstractConnector.doStart(265) | Started ServerConnector@5e57cd32{HTTP/1.1}{0.0.0.0:4567}
+12/14 09:37:44 INFO - NavigatorService.getRoutes(428) | ******** sourcePortId: 105234
+12/14 09:37:44 INFO - NavigatorService.getRoutes(429) | ******** destinationPortId: 105374
+12/14 09:37:44 INFO - NavigatorService.getRoutes(430) | ******** limitTransportCount: 2
+12/14 09:37:44 INFO - NavigatorService.getRoutes(431) | ******** costLimit: 10000.0
+12/14 09:37:44 INFO - NavigatorService.getRoutes(432) | ******** termLimit: 100.0
+12/14 09:37:44 INFO - NavigatorService.getRoutes(433) | ******** fromDate: 2016-12-13
+12/14 09:37:44 INFO - NavigatorService.detectPath(523) | Detect from [ROTTERDAM:105234] to [LONG BEACH:105374]
+12/14 09:37:44 INFO - SearchRouteImpl.addDetectedRoute(199) | detected the right route:[ROTTERDAM]--VESSEL-3494:[ROTTERDAM-QINGDAO]-->[QINGDAO]--VESSEL-15135:[QINGDAO-LONG BEACH]-->[LONG BEACH]
+12/14 09:37:44 INFO - SearchRouteImpl.addDetectedRoute(199) | detected the right route:[ROTTERDAM]--VESSEL-5568:[ROTTERDAM-BUSAN]-->[BUSAN]--VESSEL-9349:[BUSAN-LONG BEACH]-->[LONG BEACH]
+12/14 09:37:44 INFO - SearchRouteImpl.addDetectedRoute(199) | detected the right route:[ROTTERDAM]--VESSEL-9412:[ROTTERDAM-INCHEON]-->[INCHEON]--VESSEL-11904:[INCHEON-LONG BEACH]-->[LONG BEACH]
+12/14 09:37:44 INFO - SearchRouteImpl.addDetectedRoute(199) | detected the right route:[ROTTERDAM]--VESSEL-14181:[ROTTERDAM-HONG KONG]-->[HONG KONG]--VESSEL-5608:[HONG KONG-LONG BEACH]-->[LONG BEACH]
+12/14 09:37:44 INFO - SearchRouteImpl.addDetectedRoute(199) | detected the right route:[ROTTERDAM]--VESSEL-17023:[ROTTERDAM-JEBEL ALI (DUBAI)]-->[JEBEL ALI (DUBAI)]--VESSEL-18461:[JEBEL ALI (DUBAI)-LONG BEACH]-->[LONG BEACH]
+12/14 09:37:44 INFO - SearchRouteImpl.addDetectedRoute(199) | detected the right route:[ROTTERDAM]--VESSEL-18943:[ROTTERDAM-OSAKA]-->[OSAKA]--VESSEL-3614:[OSAKA-LONG BEACH]-->[LONG BEACH]
+12/14 09:37:44 INFO - SearchRouteImpl.addDetectedRoute(199) | detected the right route:[ROTTERDAM]--VESSEL-21978:[ROTTERDAM-SHANGHAI]-->[SHANGHAI]--VESSEL-24784:[SHANGHAI-LONG BEACH]-->[LONG BEACH]
+12/14 09:37:44 INFO - NavigatorService.detectPath(530) | result1: 1
+12/14 09:37:44 INFO - NavigatorService.detectPath(533) | sub result: 7
+12/14 09:37:44 INFO - NavigatorService.detectPath(545) | 1th: [ROTTERDAM]->VESSEL-9412->[INCHEON]->VESSEL-11904->[LONG BEACH] => time: 77.0, cost: 5497.0
+12/14 09:37:44 INFO - NavigatorService.detectPath(545) | 2th: [ROTTERDAM]->VESSEL-18943->[OSAKA]->VESSEL-3614->[LONG BEACH] => time: 98.0, cost: 5574.0
+12/14 09:37:44 INFO - NavigatorService.detectPath(545) | 3th: [ROTTERDAM]->VESSEL-17023->[JEBEL ALI (DUBAI)]->VESSEL-18461->[LONG BEACH] => time: 76.0, cost: 5585.0
+12/14 09:37:44 INFO - NavigatorService.detectPath(545) | 4th: [ROTTERDAM]->VESSEL-3494->[QINGDAO]->VESSEL-15135->[LONG BEACH] => time: 68.0, cost: 5588.0
+12/14 09:37:44 INFO - NavigatorService.detectPath(545) | 5th: [ROTTERDAM]->VESSEL-5568->[BUSAN]->VESSEL-9349->[LONG BEACH] => time: 68.0, cost: 5590.0
+12/14 09:37:44 INFO - NavigatorService.detectPath(545) | 6th: [ROTTERDAM]->VESSEL-21978->[SHANGHAI]->VESSEL-24784->[LONG BEACH] => time: 69.0, cost: 5833.0
+12/14 09:37:44 INFO - NavigatorService.detectPath(545) | 7th: [ROTTERDAM]->VESSEL-14181->[HONG KONG]->VESSEL-5608->[LONG BEACH] => time: 57.0, cost: 6309.0
+12/14 09:37:45 INFO - NavigatorService.getRoutes(488) | ************************************************
+12/14 09:37:45 INFO - NavigatorService.getRoutes(489) | **************** [ duration: 26ms ]******************
+12/14 09:37:45 INFO - NavigatorService.getRoutes(490) | ************************************************
+12/14 09:37:55 INFO - AirSchedule.getPort(131) | ********** result size: 490, 490
+12/14 15:54:36 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 114286
+12/14 15:54:36 ERROR - DbManagerImpl.insertData(396) | sourcePort is null: 111458
+12/14 15:54:36 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 111457
+12/14 15:54:37 INFO - DbManagerImpl.setHubPort(132) | airDefulatCost: 0.1
+12/14 15:54:37 INFO - DbManagerImpl.setHubPort(133) | seaDefulatCost: 0.3
+12/14 15:54:37 INFO - DbManagerImpl.setHubPort(134) | roadDefulatCost: 1.0
+12/14 15:54:37 INFO - DbManagerImpl.setHubPort(135) | railDefulatCost: 0.0
+12/14 15:54:37 INFO - DbManagerImpl.setHubPort(137) | airHubBranchNum: 1000
+12/14 15:54:37 INFO - DbManagerImpl.setHubPort(138) | seaHubBranchNum: 1000
+12/14 15:54:37 INFO - DbManagerImpl.setHubPort(139) | roadHubBranchNum: 0
+12/14 15:54:37 INFO - DbManagerImpl.setHubPort(140) | railHubBranchNum: 0
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByCount(171) | ********************* [inited hubMap size: 0
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByCount(244) | ********************* [after hubMap size: 0
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(251) | ********************* [before hubMap size: 0
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 67370:Incheon Intl Apt/Seoul is hub: 235
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 105430:Dubai is hub: 147
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 108829:Hong Kong is hub: 11
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 107656:Shanghai Pudong International Apt is hub: 22
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105169:BUSAN is hub: 402
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105162:INCHEON is hub: 331
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104947:SHANGHAI is hub: 303
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105038:HONG KONG is hub: 236
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104944:QINGDAO is hub: 332
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104841:JEBEL ALI (DUBAI) is hub: 292
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105132:OSAKA is hub: 264
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105234:ROTTERDAM is hub: 107
+12/14 15:54:37 INFO - DbManagerImpl.resetHubPortByKey(263) | ********************* [after hubMap size: 12
+12/14 15:54:37 INFO - DbManagerImpl.recalculateCost(488) | reset transport costs. 36828
+12/14 15:54:37 INFO - DbManagerImpl.setHubPort(162) | ********************* portMap size: 1178
+12/14 15:54:37 INFO - DbManagerImpl.setHubPort(163) | ********************* transportMap size: 36828
+12/14 15:54:37 INFO - Server.doStart(290) | jetty-9.0.2.v20130417
+12/14 15:54:37 INFO - AbstractConnector.doStart(265) | Started ServerConnector@5e57cd32{HTTP/1.1}{0.0.0.0:4567}
+12/14 15:55:22 INFO - AirSchedule.getSchedule(67) | select air_p2p_seq, airline_nm, flight_no, b.location_id src_location_id, b.airport_map_nm src_airport_nm, b.airport_cntry_cd src_cntry_cd, c.location_id dst_location_id, c.airport_map_nm dst_airport_nm, c.airport_cntry_cd dst_cntry_cd, a.schedule_dep_time dep_time, a.schedule_arr_time arr_time, a.tt duration from tx_air_p2p_schedule a, tx_airport_map b, tx_airport_map c, tx_airline d where schedule_dep_time >= ? and schedule_arr_time < ? and a.airline_seq = d.airline_seq and a.src_airport_map_seq = b.airport_map_seq and a.dst_airport_map_seq = c.airport_map_seq and a.src_airport_map_seq = ? and a.dst_airport_map_seq = ?
+12/14 15:55:22 INFO - AirSchedule.getSchedule(68) | schedule_dep_time >= 2016-12-08 00:00:00 and schedule_arr_time < 2016-12-15 23:59:59
+12/14 15:55:22 INFO - AirSchedule.getSchedule(90) | ********** result size: 0, 0
+12/14 15:56:51 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 114286
+12/14 15:56:51 ERROR - DbManagerImpl.insertData(396) | sourcePort is null: 111458
+12/14 15:56:51 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 111457
+12/14 15:56:51 INFO - DbManagerImpl.setHubPort(132) | airDefulatCost: 0.1
+12/14 15:56:51 INFO - DbManagerImpl.setHubPort(133) | seaDefulatCost: 0.3
+12/14 15:56:51 INFO - DbManagerImpl.setHubPort(134) | roadDefulatCost: 1.0
+12/14 15:56:51 INFO - DbManagerImpl.setHubPort(135) | railDefulatCost: 0.0
+12/14 15:56:51 INFO - DbManagerImpl.setHubPort(137) | airHubBranchNum: 1000
+12/14 15:56:51 INFO - DbManagerImpl.setHubPort(138) | seaHubBranchNum: 1000
+12/14 15:56:51 INFO - DbManagerImpl.setHubPort(139) | roadHubBranchNum: 0
+12/14 15:56:51 INFO - DbManagerImpl.setHubPort(140) | railHubBranchNum: 0
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByCount(171) | ********************* [inited hubMap size: 0
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByCount(244) | ********************* [after hubMap size: 0
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(251) | ********************* [before hubMap size: 0
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 67370:Incheon Intl Apt/Seoul is hub: 235
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 105430:Dubai is hub: 147
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 108829:Hong Kong is hub: 11
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 107656:Shanghai Pudong International Apt is hub: 22
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105169:BUSAN is hub: 402
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105162:INCHEON is hub: 331
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104947:SHANGHAI is hub: 303
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105038:HONG KONG is hub: 236
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104944:QINGDAO is hub: 332
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104841:JEBEL ALI (DUBAI) is hub: 292
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105132:OSAKA is hub: 264
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105234:ROTTERDAM is hub: 107
+12/14 15:56:51 INFO - DbManagerImpl.resetHubPortByKey(263) | ********************* [after hubMap size: 12
+12/14 15:56:51 INFO - DbManagerImpl.recalculateCost(488) | reset transport costs. 36828
+12/14 15:56:51 INFO - DbManagerImpl.setHubPort(162) | ********************* portMap size: 1178
+12/14 15:56:51 INFO - DbManagerImpl.setHubPort(163) | ********************* transportMap size: 36828
+12/14 15:56:51 INFO - Server.doStart(290) | jetty-9.0.2.v20130417
+12/14 15:56:51 INFO - AbstractConnector.doStart(265) | Started ServerConnector@28afb3be{HTTP/1.1}{0.0.0.0:4567}
+12/14 15:56:55 INFO - AirSchedule.getSchedule(67) | select air_p2p_seq, airline_nm, flight_no, b.location_id src_location_id, b.airport_map_nm src_airport_nm, b.airport_cntry_cd src_cntry_cd, c.location_id dst_location_id, c.airport_map_nm dst_airport_nm, c.airport_cntry_cd dst_cntry_cd, a.schedule_dep_time dep_time, a.schedule_arr_time arr_time, a.tt duration from tx_air_p2p_schedule a, tx_airport_map b, tx_airport_map c, tx_airline d where schedule_dep_time >= ? and schedule_arr_time < ? and a.airline_seq = d.airline_seq and a.src_airport_map_seq = b.airport_map_seq and a.dst_airport_map_seq = c.airport_map_seq and a.src_airport_map_seq in (select airport_map_seq from tx_airport_map where airport_map_cd = ?) and a.dst_airport_map_seq in (select airport_map_seq from tx_airport_map where airport_map_cd = ?)
+12/14 15:56:55 INFO - AirSchedule.getSchedule(68) | schedule_dep_time >= 2016-12-08 00:00:00 and schedule_arr_time < 2016-12-15 23:59:59
+12/14 15:56:55 INFO - AirSchedule.getSchedule(90) | ********** result size: 11, 11
+12/14 15:57:16 ERROR - AirSchedule.getPort(144) | 
+com.microsoft.sqlserver.jdbc.SQLServerException: 인덱스 5이(가) 범위를 벗어났습니다.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:190)
+	at com.microsoft.sqlserver.jdbc.SQLServerResultSet.verifyValidColumnIndex(SQLServerResultSet.java:531)
+	at com.microsoft.sqlserver.jdbc.SQLServerResultSet.getterGetColumn(SQLServerResultSet.java:2049)
+	at com.microsoft.sqlserver.jdbc.SQLServerResultSet.getValue(SQLServerResultSet.java:2082)
+	at com.microsoft.sqlserver.jdbc.SQLServerResultSet.getValue(SQLServerResultSet.java:2067)
+	at com.microsoft.sqlserver.jdbc.SQLServerResultSet.getString(SQLServerResultSet.java:2392)
+	at com.tradlinx.navigator.schedule.AirSchedule.getPort(AirSchedule.java:136)
+	at com.tradlinx.navigator.rest.NavigatorService.getSchedulePorts(NavigatorService.java:499)
+	at com.tradlinx.navigator.rest.NavigatorController.lambda$11(NavigatorController.java:38)
+	at spark.ResponseTransformerRouteImpl$1.handle(ResponseTransformerRouteImpl.java:47)
+	at spark.webserver.MatcherFilter.doFilter(MatcherFilter.java:144)
+	at spark.webserver.JettyHandler.doHandle(JettyHandler.java:54)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:179)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:136)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97)
+	at org.eclipse.jetty.server.Server.handle(Server.java:451)
+	at org.eclipse.jetty.server.HttpChannel.run(HttpChannel.java:252)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:266)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.run(AbstractConnection.java:240)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:596)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:527)
+	at java.lang.Thread.run(Thread.java:745)
+12/14 15:57:45 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 114286
+12/14 15:57:45 ERROR - DbManagerImpl.insertData(396) | sourcePort is null: 111458
+12/14 15:57:45 ERROR - DbManagerImpl.insertData(392) | sourcePort is null: 111457
+12/14 15:57:45 INFO - DbManagerImpl.setHubPort(132) | airDefulatCost: 0.1
+12/14 15:57:45 INFO - DbManagerImpl.setHubPort(133) | seaDefulatCost: 0.3
+12/14 15:57:45 INFO - DbManagerImpl.setHubPort(134) | roadDefulatCost: 1.0
+12/14 15:57:45 INFO - DbManagerImpl.setHubPort(135) | railDefulatCost: 0.0
+12/14 15:57:45 INFO - DbManagerImpl.setHubPort(137) | airHubBranchNum: 1000
+12/14 15:57:45 INFO - DbManagerImpl.setHubPort(138) | seaHubBranchNum: 1000
+12/14 15:57:45 INFO - DbManagerImpl.setHubPort(139) | roadHubBranchNum: 0
+12/14 15:57:45 INFO - DbManagerImpl.setHubPort(140) | railHubBranchNum: 0
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByCount(171) | ********************* [inited hubMap size: 0
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByCount(244) | ********************* [after hubMap size: 0
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(251) | ********************* [before hubMap size: 0
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 67370:Incheon Intl Apt/Seoul is hub: 235
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 105430:Dubai is hub: 147
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 108829:Hong Kong is hub: 11
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(258) | [AIRPORT] 107656:Shanghai Pudong International Apt is hub: 22
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105169:BUSAN is hub: 402
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105162:INCHEON is hub: 331
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104947:SHANGHAI is hub: 303
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105038:HONG KONG is hub: 236
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104944:QINGDAO is hub: 332
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 104841:JEBEL ALI (DUBAI) is hub: 292
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105132:OSAKA is hub: 264
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(260) | [SEAPORT] 105234:ROTTERDAM is hub: 107
+12/14 15:57:45 INFO - DbManagerImpl.resetHubPortByKey(263) | ********************* [after hubMap size: 12
+12/14 15:57:45 INFO - DbManagerImpl.recalculateCost(488) | reset transport costs. 36828
+12/14 15:57:45 INFO - DbManagerImpl.setHubPort(162) | ********************* portMap size: 1178
+12/14 15:57:45 INFO - DbManagerImpl.setHubPort(163) | ********************* transportMap size: 36828
+12/14 15:57:45 INFO - Server.doStart(290) | jetty-9.0.2.v20130417
+12/14 15:57:45 INFO - AbstractConnector.doStart(265) | Started ServerConnector@28afb3be{HTTP/1.1}{0.0.0.0:4567}
+12/14 15:57:49 INFO - AirSchedule.getPort(140) | ********** result size: 398, 398

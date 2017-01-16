@@ -1,0 +1,11 @@
+{
+	"airDefaultCost": 0.1,
+	"seaDefaultCost": 0.3,
+	"roadDefaultCost": 1.0,
+	"railDefaultCost": 0.0,
+	"airHubBranchNum": 1000,
+	"seaHubBranchNum": 1000,
+	"roadHubBranchNum": 0,
+	"railHubBranchNum": 0,
+	"hubPortList": ["67370", "105430", "108829", "107656", "105169", "105162", "104947", "105038", "104944", "104841", "105132", "105234"]
+}
